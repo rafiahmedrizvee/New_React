@@ -5,9 +5,9 @@ import Footer from '../Pages/Shared/Footer/Footer';
 
 const Main = () => {
         return (
-                <div>
+                <div className=' min-h-70vh '>
                         <Header></Header>
-                        <div>
+                        <div >
                                 <Outlet></Outlet>
                         </div>
                         <Footer></Footer>
