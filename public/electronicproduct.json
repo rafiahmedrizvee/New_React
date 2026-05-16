@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 15 Pro",
+    "brand": "Apple",
+    "price": 1299,
+    "category": "smartphone",
+    "rating": 4.9,
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+    "description": "Premium Apple smartphone with A17 Pro chip"
+  },
+  {
+    "id": 2,
+    "title": "Samsung Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "price": 1199,
+    "category": "smartphone",
+    "rating": 4.8,
+    "stock": 20,
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf",
+    "description": "Flagship Samsung smartphone with S Pen"
+  },
+ 
+  {
+    "id": 4,
+    "title": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "price": 399,
+    "category": "headphone",
+    "rating": 4.7,
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+    "description": "Noise cancelling wireless headphones"
+  },
+  {
+    "id": 5,
+    "title": "iPad Pro 12.9",
+    "brand": "Apple",
+    "price": 1099,
+    "category": "tablet",
+    "rating": 4.8,
+    "stock": 12,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0",
+    "description": "Powerful tablet with Liquid Retina display"
+  },
+  {
+    "id": 301,
+    "title": "Fresh Apples",
+    "brand": "Organic Farm",
+    "price": 5,
+    "category": "grocery",
+    "weight": "1kg",
+    "rating": 4.3,
+    "stock": 100,
+    "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+    "description": "Fresh organic apples"
+  },
+  {
+    "id": 302,
+    "title": "Milk Pack",
+    "brand": "Arla",
+    "price": 2,
+    "category": "dairy",
+    "weight": "1L",
+    "rating": 4.6,
+    "stock": 80,
+    "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150",
+    "description": "Pure fresh milk"
+  },
+  {
+    "id": 101,
+    "title": "Men Oversized Hoodie",
+    "brand": "H&M",
+    "price": 49,
+    "category": "fashion",
+    "size": ["S", "M", "L", "XL"],
+    "color": "Black",
+    "rating": 4.5,
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+    "description": "Comfortable oversized cotton hoodie"
+  },
+  {
+    "id": 102,
+    "title": "Nike Air Force 1",
+    "brand": "Nike",
+    "price": 120,
+    "category": "shoes",
+    "size": [39, 40, 41, 42, 43],
+    "color": "White",
+    "rating": 4.8,
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+    "description": "Classic white sneakers"
+  },
+  {
+    "id": 103,
+    "title": "Levi's Slim Fit Jeans",
+    "brand": "Levi's",
+    "price": 79,
+    "category": "jeans",
+    "size": [30, 32, 34, 36],
+    "color": "Blue",
+    "rating": 4.6,
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d",
+    "description": "Stylish slim fit denim jeans"
+  }
+
+]
